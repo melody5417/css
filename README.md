@@ -1,2 +1,2 @@
 # css
-learn and practise css
+learn and practice css
